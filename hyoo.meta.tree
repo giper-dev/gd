@@ -1,0 +1,6 @@
+pack notes git \https://github.com/hyoo-ru/notes.hyoo.ru.git
+pack offer git \https://github.com/hyoo-ru/offer.hyoo.ru.git
+pack scout git \https://github.com/hyoo-ru/scout.hyoo.ru.git
+pack showcase git \https://github.com/hyoo-ru/showcase.hyoo.ru.git
+pack slides git \https://github.com/hyoo-ru/slides.hyoo.ru.git
+pack toys git \https://github.com/hyoo-ru/toys.hyoo.ru.git
