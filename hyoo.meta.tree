@@ -5,3 +5,5 @@ pack showcase git \https://github.com/hyoo-ru/showcase.hyoo.ru.git
 pack slides git \https://github.com/hyoo-ru/slides.hyoo.ru.git
 pack toys git \https://github.com/hyoo-ru/toys.hyoo.ru.git
 pack calc git \https://github.com/hyoo-ru/calc.hyoo.ru.git
+pack habhub git \https://github.com/hyoo-ru/habhub.hyoo.ru.git
+pack portal git \https://github.com/hyoo-ru/portal.hyoo.ru.git
