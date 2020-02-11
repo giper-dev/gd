@@ -7,3 +7,8 @@ pack toys git \https://github.com/hyoo-ru/toys.hyoo.ru.git
 pack calc git \https://github.com/hyoo-ru/calc.hyoo.ru.git
 pack habhub git \https://github.com/hyoo-ru/habhub.hyoo.ru.git
 pack portal git \https://github.com/hyoo-ru/portal.hyoo.ru.git
+pack github git \https://github.com/hyoo-ru/github.hyoo.ru.git
+pack rdf git \https://github.com/hyoo-ru/rdf.hyoo.ru.git
+pack http git \https://github.com/hyoo-ru/http.hyoo.ru.git
+pack lamps git \https://github.com/hyoo-ru/lamps.hyoo.ru.git
+pack life git \https://github.com/hyoo-ru/life.hyoo.ru.git
