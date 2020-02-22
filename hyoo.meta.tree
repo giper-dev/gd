@@ -13,3 +13,5 @@ pack http git \https://github.com/hyoo-ru/http.hyoo.ru.git
 pack lamps git \https://github.com/hyoo-ru/lamps.hyoo.ru.git
 pack life git \https://github.com/hyoo-ru/life.hyoo.ru.git
 pack jsperf git \https://github.com/hyoo-ru/jsperf.hyoo.ru.git
+pack webdav git \https://github.com/hyoo-ru/webdav.hyoo.ru.git
+pack bench git \https://github.com/hyoo-ru/bench.hyoo.ru.git
