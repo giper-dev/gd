@@ -6,6 +6,7 @@ pack http git \https://github.com/hyoo-ru/http.hyoo.ru.git
 pack jsperf git \https://github.com/hyoo-ru/jsperf.hyoo.ru.git
 pack lamps git \https://github.com/hyoo-ru/lamps.hyoo.ru.git
 pack life git \https://github.com/hyoo-ru/life.hyoo.ru.git
+pack mill git \https://github.com/hyoo-ru/mill.git
 pack notes git \https://github.com/hyoo-ru/notes.hyoo.ru.git
 pack offer git \https://github.com/hyoo-ru/offer.hyoo.ru.git
 pack portal git \https://github.com/hyoo-ru/portal.hyoo.ru.git
