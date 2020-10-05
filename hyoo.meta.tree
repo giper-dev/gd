@@ -3,6 +3,8 @@ pack calc git \https://github.com/hyoo-ru/calc.hyoo.ru.git
 pack github git \https://github.com/hyoo-ru/github.hyoo.ru.git
 pack habhub git \https://github.com/hyoo-ru/habhub.hyoo.ru.git
 pack http git \https://github.com/hyoo-ru/http.hyoo.ru.git
+pack fallacy git \https://github.com/hyoo-ru/fallacy.hyoo.ru.git
+pack invest git \https://github.com/hyoo-ru/invest.hyoo.ru.git
 pack iq git \https://github.com/hyoo-ru/iq.hyoo.ru.git
 pack js git \https://github.com/hyoo-ru/hyoo_js.git
 pack lamps git \https://github.com/hyoo-ru/lamps.hyoo.ru.git
