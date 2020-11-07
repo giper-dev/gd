@@ -16,6 +16,7 @@ pack offer git \https://github.com/hyoo-ru/offer.hyoo.ru.git
 pack rdf git \https://github.com/hyoo-ru/rdf.hyoo.ru.git
 pack realworld git \https://github.com/hyoo-ru/realworld.hyoo.ru.git
 pack scout git \https://github.com/hyoo-ru/scout.hyoo.ru.git
+pack shelter git \https://github.com/hyoo-ru/shelter.hyoo.ru.git
 pack showcase git \https://github.com/hyoo-ru/showcase.hyoo.ru.git
 pack slides git \https://github.com/hyoo-ru/slides.hyoo.ru.git
 pack todomvc git \https://github.com/hyoo-ru/todomvc.hyoo.ru.git
