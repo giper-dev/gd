@@ -1,5 +1,6 @@
 pack bench git \https://github.com/hyoo-ru/bench.hyoo.ru.git
 pack calc git \https://github.com/hyoo-ru/calc.hyoo.ru.git
+pack case git \https://github.com/hyoo-ru/case.hyoo.ru.git
 pack github git \https://github.com/hyoo-ru/github.hyoo.ru.git
 pack habhub git \https://github.com/hyoo-ru/habhub.hyoo.ru.git
 pack http git \https://github.com/hyoo-ru/http.hyoo.ru.git
