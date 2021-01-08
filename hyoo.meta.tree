@@ -10,6 +10,7 @@ pack iq git \https://github.com/hyoo-ru/iq.hyoo.ru.git
 pack js git \https://github.com/hyoo-ru/hyoo_js.git
 pack lamps git \https://github.com/hyoo-ru/lamps.hyoo.ru.git
 pack life git \https://github.com/hyoo-ru/life.hyoo.ru.git
+pack marked git \https://github.com/hyoo-ru/marked.hyoo.ru.git
 pack mill git \https://github.com/hyoo-ru/mill.git
 pack mol git \https://github.com/hyoo-ru/mol.hyoo.ru.git
 pack notes git \https://github.com/hyoo-ru/notes.hyoo.ru.git
