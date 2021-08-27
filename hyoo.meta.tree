@@ -3,6 +3,7 @@ pack bench git \https://github.com/hyoo-ru/bench.hyoo.ru.git
 pack calc git \https://github.com/hyoo-ru/calc.hyoo.ru.git
 pack case git \https://github.com/hyoo-ru/case.hyoo.ru.git
 pack crowd git \https://github.com/hyoo-ru/crowd.hyoo.ru.git
+pack draw git \https://github.com/hyoo-ru/draw.hyoo.ru.git
 pack github git \https://github.com/hyoo-ru/github.hyoo.ru.git
 pack habhub git \https://github.com/hyoo-ru/habhub.hyoo.ru.git
 pack http git \https://github.com/hyoo-ru/http.hyoo.ru.git
@@ -20,9 +21,12 @@ pack offer git \https://github.com/hyoo-ru/offer.hyoo.ru.git
 pack rdf git \https://github.com/hyoo-ru/rdf.hyoo.ru.git
 pack realworld git \https://github.com/hyoo-ru/realworld.hyoo.ru.git
 pack scout git \https://github.com/hyoo-ru/scout.hyoo.ru.git
+pack search git \https://github.com/hyoo-ru/search.hyoo.ru.git
 pack shelter git \https://github.com/hyoo-ru/shelter.hyoo.ru.git
 pack showcase git \https://github.com/hyoo-ru/showcase.hyoo.ru.git
 pack slides git \https://github.com/hyoo-ru/slides.hyoo.ru.git
+pack studio git \https://github.com/hyoo-ru/studio.hyoo.ru.git
+pack talks git \https://github.com/hyoo-ru/talks.hyoo.ru.git
 pack todomvc git \https://github.com/hyoo-ru/todomvc.hyoo.ru.git
 pack toys git \https://github.com/hyoo-ru/toys.hyoo.ru.git
 pack tree git \https://github.com/hyoo-ru/tree.hyoo.ru.git
