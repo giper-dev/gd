@@ -32,3 +32,4 @@ pack todomvc git \https://github.com/hyoo-ru/todomvc.hyoo.ru.git
 pack toys git \https://github.com/hyoo-ru/toys.hyoo.ru.git
 pack tree git \https://github.com/hyoo-ru/tree.hyoo.ru.git
 pack webdav git \https://github.com/hyoo-ru/webdav.hyoo.ru.git
+pack sync git \https://github.com/hyoo-ru/sync.hyoo.ru.git
