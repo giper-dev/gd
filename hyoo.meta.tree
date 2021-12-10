@@ -21,6 +21,7 @@ pack mill git \https://github.com/hyoo-ru/mill.git
 pack mol git \https://github.com/hyoo-ru/mol.hyoo.ru.git
 pack notes git \https://github.com/hyoo-ru/notes.hyoo.ru.git
 pack offer git \https://github.com/hyoo-ru/offer.hyoo.ru.git
+pack play git \https://github.com/hyoo-ru/play.hyoo.ru.git
 pack rdf git \https://github.com/hyoo-ru/rdf.hyoo.ru.git
 pack realworld git \https://github.com/hyoo-ru/realworld.hyoo.ru.git
 pack scout git \https://github.com/hyoo-ru/scout.hyoo.ru.git
