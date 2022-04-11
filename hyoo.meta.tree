@@ -1,3 +1,4 @@
+pack about git \https://github.com/hyoo-ru/about.hyoo.ru.git
 pack apps git \https://github.com/hyoo-ru/apps.hyoo.ru.git
 pack bench git \https://github.com/hyoo-ru/bench.hyoo.ru.git
 pack calc git \https://github.com/hyoo-ru/calc.hyoo.ru.git
@@ -38,3 +39,4 @@ pack tree git \https://github.com/hyoo-ru/tree.hyoo.ru.git
 pack webdav git \https://github.com/hyoo-ru/webdav.hyoo.ru.git
 pack when git \https://github.com/hyoo-ru/when.hyoo.ru.git
 pack sync git \https://github.com/hyoo-ru/sync.hyoo.ru.git
+pack home git \https://github.com/hyoo-ru/hyoo.ru.git
