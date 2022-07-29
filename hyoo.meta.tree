@@ -8,6 +8,7 @@ pack crowd git \https://github.com/hyoo-ru/crowd.hyoo.ru.git
 pack draw git \https://github.com/hyoo-ru/draw.hyoo.ru.git
 pack github git \https://github.com/hyoo-ru/github.hyoo.ru.git
 pack habhub git \https://github.com/hyoo-ru/habhub.hyoo.ru.git
+pack harp git \https://github.com/hyoo-ru/harp.hyoo.ru.git
 pack http git \https://github.com/hyoo-ru/http.hyoo.ru.git
 pack fallacy git \https://github.com/hyoo-ru/fallacy.hyoo.ru.git
 pack invest git \https://github.com/hyoo-ru/invest.hyoo.ru.git
