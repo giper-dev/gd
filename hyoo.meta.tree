@@ -1,5 +1,6 @@
 pack about git \https://github.com/hyoo-ru/about.hyoo.ru.git
 pack apps git \https://github.com/hyoo-ru/apps.hyoo.ru.git
+pack aura git \https://github.com/hyoo-ru/aura.hyoo.ru.git
 pack bench git \https://github.com/hyoo-ru/bench.hyoo.ru.git
 pack board git \https://github.com/hyoo-ru/board.hyoo.ru.git
 pack calc git \https://github.com/hyoo-ru/calc.hyoo.ru.git
