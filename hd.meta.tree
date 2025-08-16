@@ -1,1 +1,2 @@
 pack canary git \https://github.com/hd4ru/canary.git
+pack lines git \https://github.com/hd4ru/lines.git
