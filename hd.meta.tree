@@ -1,3 +1,4 @@
+pack balls git \https://github.com/hd4ru/balls.git
 pack bot git \https://github.com/hd4ru/bot.git
 pack canary git \https://github.com/hd4ru/canary.git
 pack iq git \https://github.com/hd4ru/iq.git
