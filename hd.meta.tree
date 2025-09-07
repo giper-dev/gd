@@ -6,4 +6,4 @@ pack lines git \https://github.com/giper-dev/lines.git
 pack linguist git \https://github.com/giper-dev/linguist.git
 pack player git \https://github.com/giper-dev/player.git
 pack search git \https://github.com/giper-dev/search.git
-pack space git \https://github.com/giper-dev/space.git
+pack web git \https://github.com/giper-dev/web.git
