@@ -1,4 +1,5 @@
 pack balls git \https://github.com/giper-dev/balls.git
+pack baza git \https://github.com/giper-dev/baza.git
 pack bot git \https://github.com/giper-dev/bot.git
 pack canary git \https://github.com/giper-dev/canary.git
 pack iq git \https://github.com/giper-dev/iq.git
